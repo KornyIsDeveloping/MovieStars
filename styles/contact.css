@@ -1,0 +1,34 @@
+/* small */
+@media (min-width: 576px) {
+    /* Your styles here */
+}
+
+/* medium */
+@media (min-width: 768px) {
+    /* Your styles here */
+}
+
+/* large */
+@media (min-width: 992px) {
+    /* Your styles here */
+}
+
+/* extra large */
+@media (min-width: 1200px) {
+    /* Your styles here */
+}
+
+/* ultra large devices */
+@media (min-width: 1440px) {
+    /* Your styles here */
+}
+
+/* Portrait orientation */
+@media (orientation: portrait) {
+    /* Your styles here */
+}
+
+/* Landscape orientation */
+@media (orientation: landscape) {
+    /* Your styles here */
+}
