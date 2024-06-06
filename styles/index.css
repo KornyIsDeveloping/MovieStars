@@ -11,6 +11,24 @@
 /* large */
 @media (min-width: 992px) {
     /* Your styles here */
+    .login{
+
+    }
+    .btn-group {
+        background-color: #007bff; /* Blue color */
+      color: white;
+      border: 1px solid #007bff;
+      margin: 0; /* Remove margin between buttons */
+      border-radius: 5px; /* Less round corners */
+    }
+    .btn-group:hover {
+        background-color: #0056b3; /* Darker blue on hover */
+        border-color: #0056b3;
+      }
+      .btn-group-vertical {
+        display: flex;
+        justify-content: flex-start; /* Align buttons to the left */
+      }
 }
 
 /* extra large */
@@ -32,3 +50,4 @@
 @media (orientation: landscape) {
     /* Your styles here */
 }
+
